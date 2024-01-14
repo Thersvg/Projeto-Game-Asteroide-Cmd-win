@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1575815581 source:c:\users\rodrigo\desktop\projeto\funcoes.cpp
+	<iostream>
+	"funcoes.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1573529053 c:\users\rodrigo\desktop\projeto\funcoes.h
+
+1573786048 source:c:\users\rodrigo\desktop\projeto\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funcoes.h"
+	<time.h>
+	<locale.h>
+
